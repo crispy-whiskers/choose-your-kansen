@@ -1,0 +1,16 @@
+{
+  "name": "battlepicgen",
+  "version": "1.0.0",
+  "description": "generates images for battle simulations of Azur Lane and Kantai Collection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "crispy-whiskers",
+  "license": "ISC",
+  "dependencies": {
+    "@azurapi/azurapi": "^1.0.6",
+    "canvas": "^2.9.0",
+    "fs": "^0.0.1-security"
+  }
+}
